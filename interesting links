@@ -1,0 +1,40 @@
+Interessting Links to get in touch with transformer neural networks and musik generation
+
+
+Transformer:
+
+	#RNN and LSTM introduction to later understand benifits of transformers (as well as downsides)
+https://www.youtube.com/watch?v=SEnXr6v2ifU
+
+	#Paper Attention is all you need (firt introduction of transformer neurla networks)
+https://arxiv.org/pdf/1706.03762.pdf
+
+https://www.tensorflow.org/tutorials/text/transformer
+
+http://jalammar.github.io/illustrated-transformer/
+
+	#Explanition to Attention is all you need paper
+https://www.youtube.com/watch?v=iDulhoQ2pro
+
+	#LSTM to Transformer Talk
+https://www.youtube.com/watch?v=S27pHKBEp30
+
+
+
+Musik and Transformer:
+
+https://www.midi.org/articles-old/google-s-music-transformer-state-of-the-art-in-music-ai
+
+	#Interessting series of 4 articels on music generation
+https://towardsdatascience.com/creating-a-pop-music-generator-with-the-transformer-5867511b382a
+
+	#Paper on usng tranformer neural networks for music generation (for further reading)
+https://arxiv.org/pdf/1809.04281.pdf
+
+	#magenta (Music and Art using tensorflow)
+https://magenta.tensorflow.org/music-transformer
+
+
+Other:
+	#Paper on layernormalisation
+https://arxiv.org/abs/1607.06450
